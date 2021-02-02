@@ -12,6 +12,7 @@
 		B9A9776E25C9956000789A72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9A9776D25C9956000789A72 /* Assets.xcassets */; };
 		B9A9777125C9956000789A72 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9A9777025C9956000789A72 /* Preview Assets.xcassets */; };
 		B9A9777A25C9966800789A72 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A9777925C9966800789A72 /* FavoriteModel.swift */; };
+		B9A9777E25C99DBD00789A72 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A9777D25C99DBD00789A72 /* DetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B9A9777025C9956000789A72 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B9A9777225C9956000789A72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9A9777925C9966800789A72 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
+		B9A9777D25C99DBD00789A72 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B9A9776925C9956000789A72 /* FavoriteBookApp.swift */,
 				B9A9776B25C9956000789A72 /* ContentView.swift */,
 				B9A9777925C9966800789A72 /* FavoriteModel.swift */,
+				B9A9777D25C99DBD00789A72 /* DetailsView.swift */,
 				B9A9776D25C9956000789A72 /* Assets.xcassets */,
 				B9A9777225C9956000789A72 /* Info.plist */,
 				B9A9776F25C9956000789A72 /* Preview Content */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9A9777A25C9966800789A72 /* FavoriteModel.swift in Sources */,
+				B9A9777E25C99DBD00789A72 /* DetailsView.swift in Sources */,
 				B9A9776C25C9956000789A72 /* ContentView.swift in Sources */,
 				B9A9776A25C9956000789A72 /* FavoriteBookApp.swift in Sources */,
 			);
